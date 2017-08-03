@@ -94,3 +94,6 @@ input[type=text], select, textarea {
     	margin-bottom: 16px; 
   		resize: vertical;
 }
+@media screen max-widths: 980px
+@media screen max-widths: 768px
+@media screen max-widths: 640px
